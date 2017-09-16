@@ -7,13 +7,26 @@
     <meta name="author" content="">
     <link rel="icon" href="./icon/favicon.ico">
 
-    <title>Jumbotron Template for Bootstrap</title>
+    <title>Front End Web Test</title>
 
     <!-- Bootstrap core CSS -->
     <link href="./css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="./css/jumbotron.css" rel="stylesheet">
+    
+    <!--
+    <!-- KaTex css and js files -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.8.3/katex.min.css" integrity="sha384-B41nY7vEWuDrE9Mr+J2nBL0Liu+nl/rBXTdpQal730oTHdlrlXHzYMOhDU60cwde" crossorigin="anonymous">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.8.3/katex.min.js" integrity="sha384-L9gv4ooDLrYwW0QCM6zY3EKSSPrsuUncpx26+erN0pJX4wv1B1FzVW1SvpcJPx/8" crossorigin="anonymous"></script>
+    --> 
+    
+
+    <!-- KaTex css and js local files. Katex css files also requires fonts files.-->
+    <link href="./packages/katex-0.8.3/katex.min.css" rel="stylesheet">
+    <script src="./packages/katex-0.8.3/katex.min.js"></script>
+    
+    
   </head>
 
   <body>
@@ -64,8 +77,14 @@
       <!-- Example row of columns -->
       <div class="row">
         <div class="col-md-4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          <h2>KaTex Equations</h2>
+          <p>Render Latex equations using KaTex.</p>
+          
+          <p><span id="mykatex1">...test</span></p>
+			<script>
+			katex.render("f(a,b,c) = (a^2+b^2+c^2)^3", mykatex1);
+			</script> 
+          
           <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
