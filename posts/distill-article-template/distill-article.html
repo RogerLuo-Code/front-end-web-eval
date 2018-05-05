@@ -1,0 +1,48 @@
+<!doctype html>
+<meta charset="utf-8">
+<!-- using online temmplate file -->
+<script src="https://distill.pub/template.v1.js"></script>
+
+<!-- Not be able to load local temmplate file -->
+<!-- <script src="../../js/template.v1.js"></script> -->
+<!-- <script src="template.v1.js"></script> -->
+
+<script type="text/front-matter">
+    title: "Distill Template"
+    description: "Try the distill article template"
+    authors:
+    - Test: http://test.io
+    affiliations:
+    - Test: http://g.io
+</script>
+
+<dt-article>
+    <h1>Header #1</h1>
+    <h2>Header #2</h2>
+    <dt-byline></dt-byline>
+    <p>This is the first paragraph of the article.</p>
+    <p>We can also cite <dt-cite key="gregor2015draw"></dt-cite> external publications. </p>
+
+    <dt-fn>This will become a hoverable footnote.</dt-fn>
+
+    <dt-code block language="javascript">
+        var x = 25;
+        function(x){
+          return x * x;
+        }
+    </dt-code>
+</dt-article>
+
+<dt-appendix>
+
+</dt-appendix>
+
+<script type="text/bibliography">
+    @article{gregor2015draw,
+        title={DRAW: A recurrent neural network for image generation},
+        author={Gregor, Karol and Danihelka, Ivo and Graves, Alex and Rezende, Danilo Jimenez and Wierstra, Daan},
+        journal={arXivreprint arXiv:1502.04623},
+        year={2015},
+        url={https://arxiv.org/pdf/1502.04623.pdf}
+    }
+</script>
