@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: Blogging Test
 ---
 
 # This is an <h1> tag
