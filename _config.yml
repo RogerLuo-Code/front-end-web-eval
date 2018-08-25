@@ -1,9 +1,7 @@
 theme: jekyll-theme-modernist
 plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled:true
-  collections: true
+  - jekyll-paginate
+  - jekyll-sitemap
 include:
   - posts
 
