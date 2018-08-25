@@ -1,7 +1,7 @@
 theme: jekyll-theme-modernist
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-include:
-  - posts
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+# include:
+#   - posts
 
