@@ -1222,7 +1222,7 @@ body {
 #ac-globalnav .ac-gn-link-ipad {
     background-size: 27px 44px;
     background-repeat: no-repeat;
-    background-image: url("images/ipad/image_large.svg");
+    background-image: url("images/ipad_image_large.svg");
     background-position: center center;
     background-origin: content-box;
     background-size: cover;
@@ -1231,18 +1231,18 @@ body {
 }
 
 #ac-globalnav.no-svg .ac-gn-link-ipad {
-    background-image: url("images/ipad/image_large.png")
+    background-image: url("images/ipad_image_large.png")
 }
 
 @media only screen and (max-width: 767px) {
     #ac-globalnav .ac-gn-link-ipad {
         background-size: 33px 43px;
         background-repeat: no-repeat;
-        background-image: url("images/ipad/image_small.svg")
+        background-image: url("images/ipad_image_small.svg")
     }
 
     #ac-globalnav.no-svg .ac-gn-link-ipad {
-        background-image: url("images/ipad/image_small.png")
+        background-image: url("images/ipad_image_small.png")
     }
 }
 
@@ -1253,7 +1253,7 @@ body {
 #ac-globalnav .ac-gn-link-iphone {
     background-size: 44px 44px;
     background-repeat: no-repeat;
-    background-image: url("images/iphone/image_large.svg");
+    background-image: url("images/iphone_image_large.svg");
     background-position: center center;
     background-origin: content-box;
     background-size: cover;
@@ -1262,18 +1262,18 @@ body {
 }
 
 #ac-globalnav.no-svg .ac-gn-link-iphone {
-    background-image: url("images/iphone/image_large.png")
+    background-image: url("images/iphone_image_large.png")
 }
 
 @media only screen and (max-width: 767px) {
     #ac-globalnav .ac-gn-link-iphone {
         background-size: 53px 43px;
         background-repeat: no-repeat;
-        background-image: url("images/iphone/image_small.svg")
+        background-image: url("images/iphone_image_small.svg")
     }
 
     #ac-globalnav.no-svg .ac-gn-link-iphone {
-        background-image: url("images/iphone/image_small.png")
+        background-image: url("images/iphone_image_small.png")
     }
 }
 
@@ -1284,7 +1284,7 @@ body {
 #ac-globalnav .ac-gn-link-watch {
     background-size: 40px 44px;
     background-repeat: no-repeat;
-    background-image: url("images/watch/image_large.svg");
+    background-image: url("images/watch_image_large.svg");
     background-position: center center;
     background-origin: content-box;
     background-size: cover;
@@ -1293,18 +1293,18 @@ body {
 }
 
 #ac-globalnav.no-svg .ac-gn-link-watch {
-    background-image: url("images/watch/image_large.png")
+    background-image: url("images/watch_image_large.png")
 }
 
 @media only screen and (max-width: 767px) {
     #ac-globalnav .ac-gn-link-watch {
         background-size: 49px 43px;
         background-repeat: no-repeat;
-        background-image: url("images/watch/image_small.svg")
+        background-image: url("images/watch_image_small.svg")
     }
 
     #ac-globalnav.no-svg .ac-gn-link-watch {
-        background-image: url("images/watch/image_small.png")
+        background-image: url("images/watch_image_small.png")
     }
 }
 
@@ -1315,7 +1315,7 @@ body {
 #ac-globalnav .ac-gn-link-tv {
     background-size: 18px 44px;
     background-repeat: no-repeat;
-    background-image: url("images/tv/image_large.svg");
+    background-image: url("images/tv_image_large.svg");
     background-position: center center;
     background-origin: content-box;
     background-size: cover;
@@ -1324,18 +1324,18 @@ body {
 }
 
 #ac-globalnav.no-svg .ac-gn-link-tv {
-    background-image: url("images/tv/image_large.png")
+    background-image: url("images/tv_image_large.png")
 }
 
 @media only screen and (max-width: 767px) {
     #ac-globalnav .ac-gn-link-tv {
         background-size: 23px 43px;
         background-repeat: no-repeat;
-        background-image: url("images/tv/image_small.svg")
+        background-image: url("images/tv_image_small.svg")
     }
 
     #ac-globalnav.no-svg .ac-gn-link-tv {
-        background-image: url("images/tv/image_small.png")
+        background-image: url("images/tv_image_small.png")
     }
 }
 
@@ -1346,7 +1346,7 @@ body {
 #ac-globalnav .ac-gn-link-music {
     background-size: 37px 44px;
     background-repeat: no-repeat;
-    background-image: url("images/music/image_large.svg");
+    background-image: url("images/music_image_large.svg");
     background-position: center center;
     background-origin: content-box;
     background-size: cover;
@@ -1355,18 +1355,18 @@ body {
 }
 
 #ac-globalnav.no-svg .ac-gn-link-music {
-    background-image: url("images/music/image_large.png")
+    background-image: url("images/music_image_large.png")
 }
 
 @media only screen and (max-width: 767px) {
     #ac-globalnav .ac-gn-link-music {
         background-size: 46px 43px;
         background-repeat: no-repeat;
-        background-image: url("images/music/image_small.svg")
+        background-image: url("images/music_image_small.svg")
     }
 
     #ac-globalnav.no-svg .ac-gn-link-music {
-        background-image: url("images/music/image_small.png")
+        background-image: url("images/music_image_small.png")
     }
 }
 
@@ -1377,7 +1377,7 @@ body {
 #ac-globalnav .ac-gn-link-support {
     background-size: 52px 44px;
     background-repeat: no-repeat;
-    background-image: url("images/support/image_large.svg");
+    background-image: url("images/support_image_large.svg");
     background-position: center center;
     background-origin: content-box;
     background-size: cover;
@@ -1386,18 +1386,18 @@ body {
 }
 
 #ac-globalnav.no-svg .ac-gn-link-support {
-    background-image: url("images/support/image_large.png")
+    background-image: url("images/support_image_large.png")
 }
 
 @media only screen and (max-width: 767px) {
     #ac-globalnav .ac-gn-link-support {
         background-size: 62px 43px;
         background-repeat: no-repeat;
-        background-image: url("images/support/image_small.svg")
+        background-image: url("images/support_image_small.svg")
     }
 
     #ac-globalnav.no-svg .ac-gn-link-support {
-        background-image: url("images/support/image_small.png")
+        background-image: url("images/support_image_small.png")
     }
 }
 
@@ -1408,24 +1408,24 @@ body {
 #ac-globalnav .ac-gn-link-search {
     background-size: 16px 44px;
     background-repeat: no-repeat;
-    background-image: url("imagesh/image_large.svg");
+    background-image: url("images/h_image_large.svg");
     background-position: center center;
     width: 16px
 }
 
 #ac-globalnav.no-svg .ac-gn-link-search {
-    background-image: url("imagesh/image_large.png")
+    background-image: url("images/h_image_large.png")
 }
 
 @media only screen and (max-width: 767px) {
     #ac-globalnav .ac-gn-link-search {
         background-size: 16px 16px;
         background-repeat: no-repeat;
-        background-image: url("imagesh/image_small.svg")
+        background-image: url("images/h_image_small.svg")
     }
 
     #ac-globalnav.no-svg .ac-gn-link-search {
-        background-image: url("imagesh/image_small.png")
+        background-image: url("images/h_image_small.png")
     }
 }
 
@@ -1442,24 +1442,24 @@ body {
 #ac-globalnav .ac-gn-link-bag {
     background-size: 14px 44px;
     background-repeat: no-repeat;
-    background-image: url("imagesmage_large.svg");
+    background-image: url("images/mage_large.svg");
     background-position: center center;
     width: 14px
 }
 
 #ac-globalnav.no-svg .ac-gn-link-bag {
-    background-image: url("imagesmage_large.png")
+    background-image: url("images/mage_large.png")
 }
 
 @media only screen and (max-width: 767px) {
     #ac-globalnav .ac-gn-link-bag {
         background-size: 16px 48px;
         background-repeat: no-repeat;
-        background-image: url("imagesmage_small.svg")
+        background-image: url("images/mage_small.svg")
     }
 
     #ac-globalnav.no-svg .ac-gn-link-bag {
-        background-image: url("imagesmage_small.png")
+        background-image: url("images/mage_small.png")
     }
 }
 
@@ -3307,7 +3307,7 @@ body {
     height: 44px;
     cursor: pointer;
     background-repeat: no-repeat;
-    background-image: url("imagesh/image_large.svg");
+    background-image: url("imagesh_image_large.svg");
     background-position: 50% 50%;
     background-repeat: no-repeat;
     -webkit-transition: opacity 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -3315,17 +3315,17 @@ body {
 }
 
 #ac-globalnav.no-svg .ac-gn-searchform-submit {
-    background-image: url("imagesh/image_large.png")
+    background-image: url("imagesh_image_large.png")
 }
 
 @media only screen and (max-width: 767px) {
     #ac-globalnav .ac-gn-searchform-submit {
         background-repeat: no-repeat;
-        background-image: url("imagesh/image_small.svg")
+        background-image: url("imagesh_image_small.svg")
     }
 
     #ac-globalnav.no-svg .ac-gn-searchform-submit {
-        background-image: url("imagesh/image_small.png")
+        background-image: url("imagesh_image_small.png")
     }
 }
 
