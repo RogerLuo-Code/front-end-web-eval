@@ -788,7 +788,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/asa/icon_large.svg")
+    background-image: url("images/asa_icon_large.svg")
 }
 
 .ac-theme-dark #ac-globalfooter .ac-gf-buystrip-info-icon-asa,
@@ -797,7 +797,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/asa/icon_dark_large.svg")
+    background-image: url("images/asa_icon_dark_large.svg")
 }
 
 #ac-globalfooter .ac-gf-buystrip-info-icon-bag {
@@ -805,7 +805,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/bag/icon_large.svg")
+    background-image: url("images/bag_icon_large.svg")
 }
 
 .ac-theme-dark #ac-globalfooter .ac-gf-buystrip-info-icon-bag,
@@ -814,7 +814,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/bag/icon_dark_large.svg")
+    background-image: url("images/bag_icon_dark_large.svg")
 }
 
 #ac-globalfooter .ac-gf-buystrip-info-icon-call {
@@ -822,7 +822,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/call/icon_large.svg")
+    background-image: url("images/call_icon_large.svg")
 }
 
 .ac-theme-dark #ac-globalfooter .ac-gf-buystrip-info-icon-call,
@@ -831,7 +831,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/call/icon_dark_large.svg")
+    background-image: url("images/call_icon_dark_large.svg")
 }
 
 #ac-globalfooter .ac-gf-buystrip-info-icon-engraving {
@@ -839,7 +839,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/engraving/icon_large.svg")
+    background-image: url("images/engraving_icon_large.svg")
 }
 
 .ac-theme-dark #ac-globalfooter .ac-gf-buystrip-info-icon-engraving,
@@ -848,7 +848,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/engraving/icon_dark_large.svg")
+    background-image: url("images/engraving_icon_dark_large.svg")
 }
 
 #ac-globalfooter .ac-gf-buystrip-info-icon-financing {
@@ -856,7 +856,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/financing/icon_large.svg")
+    background-image: url("images/financing_icon_large.svg")
 }
 
 .ac-theme-dark #ac-globalfooter .ac-gf-buystrip-info-icon-financing,
@@ -865,7 +865,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/financing/icon_dark_large.svg")
+    background-image: url("images/financing_icon_dark_large.svg")
 }
 
 #ac-globalfooter .ac-gf-buystrip-info-icon-giftwrap {
@@ -873,7 +873,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/giftwrap/icon_large.svg")
+    background-image: url("images/giftwrap_icon_large.svg")
 }
 
 .ac-theme-dark #ac-globalfooter .ac-gf-buystrip-info-icon-giftwrap,
@@ -882,7 +882,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/giftwrap/icon_dark_large.svg")
+    background-image: url("images/giftwrap_icon_dark_large.svg")
 }
 
 #ac-globalfooter .ac-gf-buystrip-info-icon-help {
@@ -890,7 +890,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/help/icon_large.svg")
+    background-image: url("images/help_icon_large.svg")
 }
 
 .ac-theme-dark #ac-globalfooter .ac-gf-buystrip-info-icon-help,
@@ -899,7 +899,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/help/icon_dark_large.svg")
+    background-image: url("images/help_icon_dark_large.svg")
 }
 
 #ac-globalfooter .ac-gf-buystrip-info-icon-personal_setup {
@@ -907,7 +907,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/personal_setup/icon_large.svg")
+    background-image: url("images/personal_setup_icon_large.svg")
 }
 
 .ac-theme-dark #ac-globalfooter .ac-gf-buystrip-info-icon-personal_setup,
@@ -916,7 +916,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/personal_setup/icon_dark_large.svg")
+    background-image: url("images/personal_setup_icon_dark_large.svg")
 }
 
 #ac-globalfooter .ac-gf-buystrip-info-icon-retail {
@@ -924,7 +924,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/retail/icon_large.svg")
+    background-image: url("images/retail_icon_large.svg")
 }
 
 .ac-theme-dark #ac-globalfooter .ac-gf-buystrip-info-icon-retail,
@@ -933,7 +933,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/retail/icon_dark_large.svg")
+    background-image: url("images/retail_icon_dark_large.svg")
 }
 
 #ac-globalfooter .ac-gf-buystrip-info-icon-shipping {
@@ -941,7 +941,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/shipping/icon_large.svg")
+    background-image: url("images/shipping_icon_large.svg")
 }
 
 .ac-theme-dark #ac-globalfooter .ac-gf-buystrip-info-icon-shipping,
@@ -950,7 +950,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/shipping/icon_dark_large.svg")
+    background-image: url("images/shipping_icon_dark_large.svg")
 }
 
 #ac-globalfooter .ac-gf-buystrip-info-icon-thirdparty_retail {
@@ -958,7 +958,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/thirdparty_retail/icon_large.svg")
+    background-image: url("images/thirdparty_retail_icon_large.svg")
 }
 
 .ac-theme-dark #ac-globalfooter .ac-gf-buystrip-info-icon-thirdparty_retail,
@@ -967,7 +967,7 @@
     height: 74px;
     background-size: 74px 74px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-buystrip/thirdparty_retail/icon_dark_large.svg")
+    background-image: url("images/thirdparty_retail_icon_dark_large.svg")
 }
 
 #ac-globalfooter .ac-gf-buystrip-info-title,
@@ -1318,7 +1318,7 @@
     height: 36px;
     background-size: 14px 36px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-footer/breadcrumbs/apple/icon_large.svg");
+    background-image: url("images/apple_icon_large.svg");
     height: 18px;
     display: block;
     position: relative;
@@ -1329,7 +1329,7 @@
 .ac-theme-dark #ac-globalfooter .ac-gf-breadcrumbs-home-icon,
 #ac-globalfooter.ac-globalfooter-dark .ac-gf-breadcrumbs-home-icon {
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-footer/breadcrumbs/apple/icon_dark_large.svg")
+    background-image: url("images/apple_icon_dark_large.svg")
 }
 
 #ac-globalfooter .ac-gf-breadcrumbs-home-label {
@@ -1386,7 +1386,7 @@
     height: 18px;
     background-size: 8px 18px;
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-footer/breadcrumbs/separator/icon_large.svg");
+    background-image: url("images/separator_icon_large.svg");
     margin-right: 11px;
     content: '';
     display: inline-block;
@@ -1397,7 +1397,7 @@
 .ac-theme-dark #ac-globalfooter .ac-gf-breadcrumbs-item:before,
 #ac-globalfooter.ac-globalfooter-dark .ac-gf-breadcrumbs-item:before {
     background-repeat: no-repeat;
-    background-image: url("../assets/ac-footer/breadcrumbs/separator/icon_dark_large.svg")
+    background-image: url("images/separator_icon_dark_large.svg")
 }
 
 #ac-globalfooter .ac-gf-directory {

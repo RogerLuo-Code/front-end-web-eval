@@ -1157,24 +1157,24 @@ body {
 #ac-globalnav .ac-gn-link-apple {
     background-size: 16px 44px;
     background-repeat: no-repeat;
-    background-image: url("images/image_large.svg");
+    background-image: url("images/apple_image_large.svg");
     background-position: center center;
     width: 16px
 }
 
 #ac-globalnav.no-svg .ac-gn-link-apple {
-    background-image: url("images/image_large.png")
+    background-image: url("images/apple_image_large.png")
 }
 
 @media only screen and (max-width: 767px) {
     #ac-globalnav .ac-gn-link-apple {
         background-size: 18px 48px;
         background-repeat: no-repeat;
-        background-image: url("images/image_small.svg")
+        background-image: url("images/apple_image_small.svg")
     }
 
     #ac-globalnav.no-svg .ac-gn-link-apple {
-        background-image: url("images/image_small.png")
+        background-image: url("images/apple_image_small.png")
     }
 }
 
@@ -1408,24 +1408,24 @@ body {
 #ac-globalnav .ac-gn-link-search {
     background-size: 16px 44px;
     background-repeat: no-repeat;
-    background-image: url("images/h_image_large.svg");
+    background-image: url("images/search_image_large.svg");
     background-position: center center;
     width: 16px
 }
 
 #ac-globalnav.no-svg .ac-gn-link-search {
-    background-image: url("images/h_image_large.png")
+    background-image: url("images/search_image_large.png")
 }
 
 @media only screen and (max-width: 767px) {
     #ac-globalnav .ac-gn-link-search {
         background-size: 16px 16px;
         background-repeat: no-repeat;
-        background-image: url("images/h_image_small.svg")
+        background-image: url("images/search_image_small.svg")
     }
 
     #ac-globalnav.no-svg .ac-gn-link-search {
-        background-image: url("images/h_image_small.png")
+        background-image: url("images/search_image_small.png")
     }
 }
 
@@ -1442,24 +1442,24 @@ body {
 #ac-globalnav .ac-gn-link-bag {
     background-size: 14px 44px;
     background-repeat: no-repeat;
-    background-image: url("images/mage_large.svg");
+    background-image: url("images/bag_image_large.svg");
     background-position: center center;
     width: 14px
 }
 
 #ac-globalnav.no-svg .ac-gn-link-bag {
-    background-image: url("images/mage_large.png")
+    background-image: url("images/bag_image_large.png")
 }
 
 @media only screen and (max-width: 767px) {
     #ac-globalnav .ac-gn-link-bag {
         background-size: 16px 48px;
         background-repeat: no-repeat;
-        background-image: url("images/mage_small.svg")
+        background-image: url("images/bag_image_small.svg")
     }
 
     #ac-globalnav.no-svg .ac-gn-link-bag {
-        background-image: url("images/mage_small.png")
+        background-image: url("images/bag_image_small.png")
     }
 }
 
@@ -1923,7 +1923,7 @@ body {
 }
 
 #ac-globalnav .ac-gn-bagview-loader {
-    background: no-repeat center/40px url("assetsr.svg");
+    background: no-repeat center/40px url("images/ac_store_spinner.svg");
     margin-top: -20px;
     margin-left: -20px;
     width: 40px;
@@ -1939,7 +1939,7 @@ body {
 
 #ac-globalnav .ac-gn-bagview _:-ms-input-placeholder,
 :root #ac-globalnav .ac-gn-bagview-loader {
-    background: none, no-repeat center/40px url("assetsr.svg")
+    background: none, no-repeat center/40px url("assetsr.images/ac_store_spinner.svg")
 }
 
 #ac-globalnav .ac-gn-bagview-bag {
@@ -2050,43 +2050,43 @@ body {
 }
 
 #ac-globalnav .ac-gn-bagview-nav-link-bag {
-    background-image: url("assetsg");
-    background-image: none, url("assetsg");
+    background-image: url("images/ac_store_bag.png");
+    background-image: none, url("images/ac_store_bag.svg");
     background-position: 1px center;
     background-repeat: no-repeat
 }
 
 #ac-globalnav .ac-gn-bagview-nav-link-favorites {
-    background-image: url("assetstes.png");
-    background-image: none, url("assetstes.svg");
+    background-image: url("images/ac_store_favorites.png");
+    background-image: none, url("images/ac_store_favorites.svg");
     background-position: 1px center;
     background-repeat: no-repeat
 }
 
 #ac-globalnav .ac-gn-bagview-nav-link-orders {
-    background-image: url("assets.png");
-    background-image: none, url("assets.svg");
+    background-image: url("images/ac_store_orders.png");
+    background-image: none, url("images/ac_store_orders.svg");
     background-position: 1px center;
     background-repeat: no-repeat
 }
 
 #ac-globalnav .ac-gn-bagview-nav-link-account {
-    background-image: url("assetst.png");
-    background-image: none, url("assetst.svg");
+    background-image: url("images/ac_store_account.png");
+    background-image: none, url("images/ac_store_account.svg");
     background-position: 1px center;
     background-repeat: no-repeat
 }
 
 #ac-globalnav .ac-gn-bagview-nav-link-signIn {
-    background-image: url("assets.png");
-    background-image: none, url("assets.svg");
+    background-image: url("images/ac_store_signIn.png");
+    background-image: none, url("images/ac_store_signIn.svg");
     background-position: 1px center;
     background-repeat: no-repeat
 }
 
 #ac-globalnav .ac-gn-bagview-nav-link-signOut {
-    background-image: url("assets.png");
-    background-image: none, url("assets.svg");
+    background-image: url("images/ac_store_signIn.png");
+    background-image: none, url("images/ac_store_signIn.svg");
     background-position: 1px center;
     background-repeat: no-repeat
 }
@@ -3307,7 +3307,7 @@ body {
     height: 44px;
     cursor: pointer;
     background-repeat: no-repeat;
-    background-image: url("imagesh_image_large.svg");
+    background-image: url("images/search_image_large.svg");
     background-position: 50% 50%;
     background-repeat: no-repeat;
     -webkit-transition: opacity 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -3315,17 +3315,17 @@ body {
 }
 
 #ac-globalnav.no-svg .ac-gn-searchform-submit {
-    background-image: url("imagesh_image_large.png")
+    background-image: url("images/search_image_large.png")
 }
 
 @media only screen and (max-width: 767px) {
     #ac-globalnav .ac-gn-searchform-submit {
         background-repeat: no-repeat;
-        background-image: url("imagesh_image_small.svg")
+        background-image: url("images/search_image_small.svg")
     }
 
     #ac-globalnav.no-svg .ac-gn-searchform-submit {
-        background-image: url("imagesh_image_small.png")
+        background-image: url("images/search_image_small.png")
     }
 }
 
@@ -3433,11 +3433,11 @@ body {
         height: 16px;
         background-size: 15px 16px;
         background-repeat: no-repeat;
-        background-image: url("imagesh/reset_small.svg")
+        background-image: url("imagesh/search_reset_small.svg")
     }
 
     #ac-globalnav.no-svg .ac-gn-searchform-reset-background {
-        background-image: url("imagesh/reset_small.png")
+        background-image: url("imagesh/search_reset_small.png")
     }
 }
 
@@ -3713,23 +3713,23 @@ body {
 
 #ac-globalnav .ac-gn-searchresults-link-suggestions {
     background-repeat: no-repeat;
-    background-image: url("imagesh/suggestions_large.svg");
+    background-image: url("images/search_suggestions_large.svg");
     padding-left: 70px;
     background-position: 48px -1px
 }
 
 #ac-globalnav.no-svg .ac-gn-searchresults-link-suggestions {
-    background-image: url("imagesh/suggestions_large.png")
+    background-image: url("images/search_suggestions_large.png")
 }
 
 @media only screen and (max-width: 767px) {
     #ac-globalnav .ac-gn-searchresults-link-suggestions {
         background-repeat: no-repeat;
-        background-image: url("imagesh/suggestions_small.svg")
+        background-image: url("images/search_suggestions_small.svg")
     }
 
     #ac-globalnav.no-svg .ac-gn-searchresults-link-suggestions {
-        background-image: url("imagesh/suggestions_small.png")
+        background-image: url("images/search_suggestions_small.png")
     }
 }
 
